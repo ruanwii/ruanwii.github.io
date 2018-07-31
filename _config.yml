@@ -7,28 +7,24 @@
 url: "http://ruanwii.github.io"
 baseurl: ""
 
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-
-# Of course don't forget to change the username and projectname to YOUR username and project
-
 # Name of website
 title: Ruan Wii's Blog
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Kế toán hóa mọi thứ!
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Kinh tế: 
+    - Kinh tế Mỹ
+    - Chiến tranh thương mại Mỹ - Trung
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -42,10 +38,10 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+navbar-col: "#4AEAF8"
+navbar-text-col: "#FFFFFF"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#E9ECEC"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -73,20 +69,20 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  facebook: 
+  github: ruanwii
+  twitter: supersliver
 #  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
+#  google-plus: +yourname
+#  linkedin: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  snapchat: yourname
+#  instagram: yourname
+#  youtube: user/yourchannel
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: +yournumber
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 
@@ -98,8 +94,6 @@ share-links-active:
   linkedin: true
 
 # How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
