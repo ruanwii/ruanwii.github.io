@@ -19,8 +19,8 @@ description: Kế toán hóa mọi thứ!
 navbar-links:
   About Me: "aboutme"
   Kinh tế: 
-    - Kinh tế Mỹ: "www.google.com"
-    - Chiến tranh thương mại Mỹ - Trung: "www.google.com"
+    - Kinh tế Mỹ: 
+    - Chiến tranh thương mại Mỹ - Trung: 
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
